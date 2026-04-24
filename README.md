@@ -44,7 +44,7 @@ Các bài tập tập trung vào việc xử lý dữ liệu địa lý, trực 
 
 * Mỗi bài tập được triển khai độc lập
 * Tất cả dữ liệu sử dụng trong bài đều là dữ liệu giả lập
-* Bài 23.4 cần sử dụng file GeoJson để có thể hiển thị bản đồ chi tiết
+* Bài 23.4 cần sử dụng file GeoJson (sưu tầm từ Github) để có thể hiển thị bản đồ chi tiết
 
 
 
