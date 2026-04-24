@@ -36,7 +36,7 @@ Các bài tập tập trung vào việc xử lý dữ liệu địa lý, trực 
 | 23.12 | Tối ưu hóa tuyến giao hàng                         |
 | 23.13 | Xây dựng dashboard bản đồ                          |
 | 23.14 | Mô phỏng hệ thống theo thời gian thực              |
-| 23.15 | Bài toán AI tự chọn                                |
+| 23.15 | Bản đồ tìm quán ăn phù hợp với túi tiền            |
 
 ---
 
